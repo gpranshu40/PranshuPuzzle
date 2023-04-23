@@ -11,7 +11,7 @@ Animal matching is game to test your memory and see how quickly you can clear th
 
 Thes project for education purposes only and as final project phase 0 - batch 34 (Humble Fox) at Hacktiv8.
 
-◧ [**Play Animal Matching!**]([https://candrasaputra.github.io/animalMatching/index.html](https://gpranshu40.github.io/PranshuPuzzle/))
+◧ [**Play Animal Matching!**]([https://gpranshu40.github.io/PranshuPuzzle/]
 
 **Mobile**
 
